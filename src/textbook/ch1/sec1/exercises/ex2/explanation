@@ -1,0 +1,5 @@
+a. runtime error; main method not found in class HelloWorld
+b. runtime error; main method is not static in class HelloWorld
+c. compilation error; invalid method declaration; return type required
+d. 1. compilation error if just the "args" identifier is removed;
+   2. runtime error if the whole parameter is removed; main method not found in class HelloWorld

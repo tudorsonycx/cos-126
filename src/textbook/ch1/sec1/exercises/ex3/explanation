@@ -1,0 +1,3 @@
+a. and b. compilation error; identifier expected
+c. compilation error; cannot find symbol
+d. no errors; we simply changed the parameter's name

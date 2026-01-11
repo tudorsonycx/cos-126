@@ -1,0 +1,5 @@
+a. prints "Hi, java. How are you?"
+b. bash error; can't run program due to the argument passed to the command containing unescaped characters.
+c. prints "Hi, 1234. How are you?"
+d. error; can't find the class named "UseArgument.java"
+e. prints "Hi Alice. How are you?"; although we pass a second command-line argument, we only print the first one
