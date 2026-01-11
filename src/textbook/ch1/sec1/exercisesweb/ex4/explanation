@@ -1,0 +1,7 @@
+a. compilation error; ';' expected
+b. compilation error; unclosed string literal + some other bullshit
+c. compilation error; unclosed string literal
+d. compilation error; '{' expected
+e. compilation error; bullshit
+f. compilation error; more bullshit
+g. compilation error; same as f.

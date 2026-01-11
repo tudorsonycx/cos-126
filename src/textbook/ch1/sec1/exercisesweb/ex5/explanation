@@ -1,0 +1,5 @@
+a. runtime error; main method not found
+b. compilation error; cannot find symbol
+c. compilation error; class should be named the same as the file it is defined in
+d. compilation error; package doesn't exist
+e. compilation error; can't find method

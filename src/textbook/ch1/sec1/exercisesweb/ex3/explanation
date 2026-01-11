@@ -1,0 +1,5 @@
+a. compilation error; identifier expected for the method
+b. compilation error; bullshittery
+c. compilation error; identifier expected for the class
+d. compilation error; can't find symbol, if omitting "System.out." or illegal expression if omitting "System.out"
+e. compilation error; can't find symbol, if omitting ".println" or identifier expected if omitting "println"
