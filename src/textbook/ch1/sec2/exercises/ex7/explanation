@@ -1,0 +1,8 @@
+since we're only using the + operator, the operations are by default left associative;
+also, since we use the + operator on a string, java automatically converts the other operand to
+a string.
+a. 2bc
+b. 5bc
+c. 5bc
+d. bc5
+e. bc23

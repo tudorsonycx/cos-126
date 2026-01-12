@@ -1,0 +1,10 @@
+to use Quadratic.java to find the square root of a number, since the program solves the following equation:
+x^2 + bx + c = 0
+by taking cli arguments for b and c, all we need to do is execute the program with the first cli argument passed to
+the program being 0, which will be the b, and the other one -n, where n is the positive number we want to find the
+square root of, which will be the c in our quadratic equation;
+this is because x^2 + bx + c = 0, so x^2 + bx = -c; if we set b = 0 then we get x^2 = -c, but -c has to be >= 0, so c <= 0
+ex:
+java Quadratic 0 -4
+2.0
+-2.0

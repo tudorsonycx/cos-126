@@ -1,0 +1,4 @@
+a. 'b'
+b. actually prints 197; both operands, that are of type char, are promoted to int; the result is of type int
+c. 'a' + 4 evaluates to 101; then the result is cast to a char, which returns the 4th character to the right of 'a',
+which is 'e'
