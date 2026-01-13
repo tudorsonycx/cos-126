@@ -1,0 +1,5 @@
+a. 3.14159
+b. 4.14159
+c. 2; explicitly casting a to an int discards the fractional part;
+d. 2.5464812403910124; 8 gets promoted to double;
+e. 2; explicit cast to int of 2.5464812403910124 discards the fractional part;
