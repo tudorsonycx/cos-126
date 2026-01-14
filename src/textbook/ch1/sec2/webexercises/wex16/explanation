@@ -1,0 +1,4 @@
+threeInt / fourInt yields 0
+threeInt / fourDouble returns 0.75 due to threeInt being promoted to double
+threeDouble / fourInt returns 0.75 due to fourInt being promoted to double
+threeDouble / fourDouble 0.75

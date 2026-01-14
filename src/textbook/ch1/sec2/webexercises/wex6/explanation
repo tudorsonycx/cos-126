@@ -1,0 +1,3 @@
+x = 65536 = 2^16
+by doing long y = x * x, Java first evaluates first the int expression x * x = 2^32, which overflows and we get a
+result of 0; only after that is the widening going to take place.

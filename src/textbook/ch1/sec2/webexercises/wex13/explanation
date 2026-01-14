@@ -1,0 +1,5 @@
+a. ArrayIndexOutOfBoundsException due to not passing any cli argument
+b. 1975.5 is a double, so we're gonna get a NumberFormatException due to Integer.parseInt not being able to parse it
+   into an int
+c. false
+d. false; the extra 2 cli arguments after 1975 are ignored
